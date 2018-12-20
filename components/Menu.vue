@@ -105,16 +105,5 @@ li {
     list-style-image: none;
 }
 
-.user-nav-bar__icon:before {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-position: 50% 50%;
-    background-size: 100% 100%;
-    opacity: .5;
-    background-image: src('/icon.png');
-}
+
 </style>
