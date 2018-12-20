@@ -22,7 +22,6 @@
                 <div class="user-nav-bar__text">Личный кабинет</div>
               </div>
             </li>
-
         </ul>
       </div>
     </div>
