@@ -1,16 +1,19 @@
 <template>
   <section class="container">
     <div>
+	  <Topbanner/>
       <Menu/>
     </div>
   </section>
 </template>
 
 <script>
+import Topbanner from '~/components/Topbanner.vue'
 import Menu from '~/components/Menu.vue'
 
 export default {
   components: {
+    Topbanner,
     Menu
   }
 }
