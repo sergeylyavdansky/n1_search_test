@@ -15,9 +15,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 184px;
+    height: 184px;
     padding: 12px 0;
     box-sizing: border-box;
+    outline: 2px solid red;
 }
 
 

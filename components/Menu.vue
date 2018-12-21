@@ -47,6 +47,7 @@
    margin-left: auto;
    margin-right: auto;
    max-width: none;
+   width: 906px;
    display: flex;
    height: 100%;
   }
